@@ -6,9 +6,13 @@ The school board has notified Maria and her supervisor that the `students_comple
 ## Results:
 - How is the district summary affected?
 
+  We see a slight decrease in average math score, % passing math, % passing reading and % overall passing.
+
 ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/districty_summary_df.png)
 
 - How is the school summary affected?
+
+  No changes were seen as a result of the new analysis.
 
 ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
 
