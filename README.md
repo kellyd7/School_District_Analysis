@@ -6,19 +6,40 @@ The school board has notified Maria and her supervisor that the `students_comple
 ## Results:
 - How is the district summary affected?
 
+![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/districty_summary_df.png)
+
 - How is the school summary affected?
+
+![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-- How does replacing the ninth-grade scores affect the following:
+![This is an image]()
 
-    - Math and reading scores by grade
+- How does replacing the ninth-grade scores affect the following:
+  
+   - Math and reading scores by grade
     
-    - Scores by school spending
+    ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/math_scores_by_grade.png)
+    
+    ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.png) 
+   
+   - Scores by school spending
+    
+    ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/spending_summary_df.png)
     
     - Scores by school size
     
+    ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/size_summary_df.png)
+    
     - Scores by school type
-
+    
+    ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/type_summary_df.png)
 
 ## Summary:
+
+Four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs are:
+1.
+2.
+3.
+4.
