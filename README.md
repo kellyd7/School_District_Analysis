@@ -4,27 +4,27 @@
 The school board has notified Maria and her supervisor that the `students_complete.csv` file shows evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered. Although the school board does not know the full extent of the academic dishonesty, they want to uphold state-testing standards and have turned to Maria for help. She has asked us to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Once we've replaced the math and reading scores, Maria would like us to repeat the school district analysis that we did in this module and write up a report to describe how these changes affected the overall analysis.
 
 ## Results:
-- How is the district summary affected?
+- **How is the district summary affected?
 
   We see a slight decrease in average math score, % passing math, % passing reading and % overall passing.
 
 ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/districty_summary_df.png)
 
-- How is the school summary affected?
+- **How is the school summary affected?
 
   No changes were seen as a result of the new analysis.
 
 ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- **How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
   We see Thomas High School's performance statistics increase.
   
 ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/per_school_summary_df.png)
 
-- How does replacing the ninth-grade scores affect the following:
+- **How does replacing the ninth-grade scores affect the following:
   
-   - Math and reading scores by grade?
+   - **Math and reading scores by grade?
       
       No significant changes, just now there's no data for Thomas High school to compare there ninth grade performance to other schools.
       
@@ -32,19 +32,19 @@ The school board has notified Maria and her supervisor that the `students_comple
     
     ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.png) 
    
-   - Scores by school spending?
+   - **Scores by school spending?
     
       We see a slight decrease in scores per school spending.
     
     ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/spending_summary_df.png)
     
-    - Scores by school size?
+    - **Scores by school size?
     
       Scores appear to remain the same base on school size.
     
     ![This is an image](https://github.com/kellyd7/School_District_Analysis/blob/main/Resources/size_summary_df.png)
     
-    - Scores by school type?
+    - **Scores by school type?
     
       Scores appear to remain the same base on school type.
     
